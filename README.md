@@ -11,6 +11,6 @@ This project is a proof of concept of a vital parameter entry web app developed 
 
 When deploying the project make sure that all mentions of the URL https://brewinabox.se, in the Angular app, are changed to where you have depolyed the back-end server.
 
-Region Östergötland was very satisfied with what was achieved by the student group (pictured below) during the brief project time.
+Region Östergötland was very satisfied with what was achieved by the student group (pictured below) during the very limited project time available.
 
 ![vITal](https://github.com/regionostergotland/vITal-studentprojekt/blob/master/Documents/vITal-gruppfoto.png?raw=true "vITal")
