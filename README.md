@@ -1,3 +1,6 @@
+![vITal](https://github.com/regionostergotland/vITal-studentprojekt/raw/master/Documentation/vITal-logga.PNG "vITal")
+![vITal](Documentation/vITal-logga.PNG "vITal")
+
 # vITal-studentprojekt
 
 This project is a proof of concept of a vital parameter entry web app developed as a student project at the University of Linköping for Region Östergötland (Emergency Ward at Vrinnevisjukhuset i Norrköping) during the autumn semester 2019. The app is meant to digitize the entry of vital parameters taken in patient care and automate calculations of NEWS2 scores from these parameters. The web app also uses the device's (e.g. phone's) camera to scan barcodes of patient's id-wrist-bands. 
